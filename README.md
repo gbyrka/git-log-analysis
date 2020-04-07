@@ -56,3 +56,8 @@ This method uses the reflog to find the commit in your history. By default these
 ```sh
 git checkout `git rev-list -n 1 --first-parent --before="2019-01-01 00:01" master`
 ```
+
+
+## Git Static Analyzer
+Some of the above is automated here: https://github.com/gbyrka-fingo/git-static-analyzer
+
