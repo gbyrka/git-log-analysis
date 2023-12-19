@@ -59,5 +59,5 @@ git checkout `git rev-list -n 1 --first-parent --before="2019-01-01 00:01" maste
 
 
 ## Git Static Analyzer
-Some of the above is automated here: https://github.com/gbyrka-fingo/git-static-analyzer
+Some of the above is automated here: https://github.com/gbyrka/git-static-analyzer
 
